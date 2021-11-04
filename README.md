@@ -1,0 +1,1 @@
+simple-slider use vanilla JS.
