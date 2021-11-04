@@ -1,1 +1,1 @@
-simple-slider use vanilla JS.
+simple-slider use vanilla JS
