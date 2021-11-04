@@ -63,5 +63,5 @@ button:active {
     height: 480px;
     display: flex;
     position: relative;
-    transition: all ease 700ms;
+    transition: 500ms;
 }
